@@ -1,6 +1,5 @@
 from preprocessing import trs, tss
 from model import neural_network
-from sklearn.metrics import confusion_matrix
 import tensorflow as tf
 import numpy as np
 
